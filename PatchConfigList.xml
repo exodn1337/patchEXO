@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<document>
+	<ChannelList channel_name="EXODN">
+		<Local local_name="ImmortalsGames">
+			<version addr="http://149.56.8.83/idnpatch_immortals/immortalsver/"/>
+			<update addr="http://149.56.8.83/idnpatch_immortals/immortalsup/"/>
+			<guidepage addr="http://exodn.com/patch.php"/>
+			<homepage addr="http://forum.exodn.com/"/>
+			<login addr="149.56.8.83" port="14300"/>
+		</Local>
+	</ChannelList>
+</document>
